@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173024706662",
+    "project_id": "debunk-98ba4",
+    "storage_bucket": "debunk-98ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173024706662:android:13baee7447e225131c6da7",
+        "android_client_info": {
+          "package_name": "com.debunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173024706662-cq5d72tdgmv0k8f8bno06jfuqe795lgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5J58V2I7t4XyiEMaakyUP-aVV_L0dQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173024706662-cq5d72tdgmv0k8f8bno06jfuqe795lgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
